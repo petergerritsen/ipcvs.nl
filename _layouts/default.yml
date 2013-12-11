@@ -12,7 +12,7 @@
 	<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?B" />
   <![endif]-->
   <script src="/assets/cufon-yui.js" type="text/javascript"></script>
-  <script src="/assets/fonts.js" type="text/javascript"></script>
+  <script src="/assets/Handel_Gothic_500.font.js" type="text/javascript"></script>
   <script type="text/javascript">
     Cufon.replace('#site-name strong a', { fontFamily: 'Handel Gothic' });
     Cufon.replace('#site-slogan', { fontFamily: 'Handel Gothic' });
