@@ -9,8 +9,18 @@
   <meta http-equiv="Content-Type" content="text/html; charset=us-ascii" />
   <link type="text/css" rel="stylesheet" media="all" href="/assets/site.css" />
   <!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?B" />
-<![endif]-->
+	<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?B" />
+  <![endif]-->
+  <script src="/assets/cufon-yui.js" type="text/javascript"></script>
+  <script src="/assets/fonts.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    Cufon.replace('#site-name strong a', { fontFamily: 'Handel Gothic' });
+    Cufon.replace('#site-slogan', { fontFamily: 'Handel Gothic' });
+	Cufon.replace('#content-header h1.title', { fontFamily: 'Handel Gothic' });
+	Cufon.replace('#primary ul li a span', { fontFamily: 'Handel Gothic' });
+	Cufon.replace('#footer-message', { fontFamily: 'Handel Gothic' });
+	Cufon.replace('#content-area div.content h3', { fontFamily: 'Handel Gothic' });	
+  </script>
 </head>
 
 <body class="front not-logged-in node-type-page one-sidebar sidebar-left">
@@ -96,6 +106,8 @@
      
     </div>
   </div><!-- /#page-inner, /#page -->
+  <!-- To avoid delays, initialize Cufón before other scripts at the bottom -->
+  <script type="text/javascript"> Cufon.now(); </script>
 </body>
 </html>
 
