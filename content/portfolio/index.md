@@ -17,7 +17,7 @@ Crucell, an independent vaccine company, has its headquarters in Leiden, The Net
 
 Crucell purchased new equipment and all relevant documents such as URS, FAT/SAT protocols and reports, I(O)Q protocols and reports etc had to be initiated. IPCVS supported the scale-up and manufacturing support group by writing user requirement specifications (URS) for the required equipment and project plans.
 
-**Sanquin Plasma Products, Amsterdam, The Netherlands (July 2009 – October 2009)**
+**Sanquin Plasma Products, Amsterdam, The Netherlands (July 2009 - October 2009)**
 
 Sanquin Plasma Products is the pharmaceutical branch of the Dutch bloodbank. They manufacture commercial products based on blood plasma, which is sold both nationally and internationally.
 
@@ -27,7 +27,7 @@ IPCVS assisted the QA compliance department in preparation for a governmental in
 
 Centocor B.V. is part of the Johnson & Johnson group. With production facilities in the Netherlands and the United States, it is the biggest producer of monoclonal antibodies in the world. Well-known products are Remicade and Reopro. These medicines help against heart and artery diseases and auto-immune diseases such as Rheumatoid Arthritis.
 
-The Center of Expertise Cell Culture supports the production department with deviation handling, chasing CAPA’s and quality events and reviewing the production performance. IPCVS was involved in the following activities: initiating and coordinating process changes; coordinating and executing follow ups for CAPA’s; initiating, chasing and presenting CAPA’s to the CAPA board members; carrying out follow up actions / root cause investigations; data collection for cell culture related deviations; revising process related documentation; and writing various documentation regarding the implementation of new production processes.
+The Center of Expertise Cell Culture supports the production department with deviation handling, chasing CAPA's and quality events and reviewing the production performance. IPCVS was involved in the following activities: initiating and coordinating process changes; coordinating and executing follow ups for CAPA's; initiating, chasing and presenting CAPA's to the CAPA board members; carrying out follow up actions / root cause investigations; data collection for cell culture related deviations; revising process related documentation; and writing various documentation regarding the implementation of new production processes.
 
 You can find more information about my work experience in my LinkedIn profile.
 
