@@ -60,15 +60,15 @@
 
               <div id="primary">
                 <ul class="links">
-                  <li class="first active"><a href="/" title="Home"><span class="link">Home</span></a></li>
+                  <li><a href="/" title="Home"{% if page.title == 'Home' %} class="active"{% endif %}><span class="link">Home</span></a></li>
 
-                  <li><a href="/content/services" title="Services"><span class="link">Services</span></a></li>
+                  <li><a href="/content/services" title="Services"{% if page.title == 'Services' %} class="active"{% endif %}><span class="link">Services</span></a></li>
 
-                  <li><a href="/content/portfolio" title="Portfolio"><span class="link">Portfolio</span></a></li>
+                  <li><a href="/content/portfolio" title="Portfolio"{% if page.title == 'Portfolio' %} class="active"{% endif %}><span class="link">Portfolio</span></a></li>
 
-                  <li><a href="/content/references" title="References"><span class="link">References</span></a></li>
+                  <li><a href="/content/references" title="References"{% if page.title == 'References' %} class="active"{% endif %}><span class="link">References</span></a></li>
 
-                  <li><a href="/content/contact" title="Contact"><span class="link">Contact</span></a></li>
+                  <li><a href="/content/contact" title="Contact"{% if page.title == 'Contact' %} class="active"{% endif %}><span class="link">Contact</span></a></li>
                 </ul>
               </div><!-- /#primary -->
             </div>
@@ -106,7 +106,7 @@
      
     </div>
   </div><!-- /#page-inner, /#page -->
-  <!-- To avoid delays, initialize Cufón before other scripts at the bottom -->
+  <!-- To avoid delays, initialize Cufon before other scripts at the bottom -->
   <script type="text/javascript"> Cufon.now(); </script>
 </body>
 </html>
