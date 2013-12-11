@@ -106,7 +106,7 @@
      
     </div>
   </div><!-- /#page-inner, /#page -->
-  <!-- To avoid delays, initialize Cufón before other scripts at the bottom -->
+  <!-- To avoid delays, initialize CufÃ³n before other scripts at the bottom -->
   <script type="text/javascript"> Cufon.now(); </script>
 </body>
 </html>
