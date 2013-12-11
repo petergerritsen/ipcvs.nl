@@ -1,6 +1,7 @@
 ---
 title: Services
 layout: default
+contentimage: 2
 ---
 
 The pharmaceutical industry is strictly regulated by governmental bodies such as the FDA, EMEA and IGZ. The most important rules have been recorded in the GMP (good manufacturing practices) guidelines.

@@ -1,6 +1,7 @@
 ---
 title: Portfolio
 layout: default
+contentimage: 3
 ---
 
 Below you can find a overview of our most recent projects.

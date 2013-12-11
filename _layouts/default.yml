@@ -77,7 +77,7 @@
                         "views-row views-row-1 views-row-odd views-row-first views-row-last">
                         <div class="views-field-field-image-fid">
                             <span class="field-content"><img src=
-                            "assets/images/content1.jpg" alt="" title="" class=
+                            "/assets/images/content{{ page.contentimage }}.jpg" alt="" title="" class=
                             "imagecache imagecache-image_right_rotating imagecache-default imagecache-image_right_rotating_default"
                             width="270" height="203" /></span>
                           </div>

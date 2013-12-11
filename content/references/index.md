@@ -1,6 +1,7 @@
 ---
 title: References
 layout: default
+contentimage: 4
 ---
 
 "The performance of Ren&eacute; met or exceeded expectations. His tasks were completed on time and of high quality and quantity. Ren&eacute; has a lot of knowledge, takes responsibilties, pro-actively delivers support, sets priorities, is results-driven, flexible, a team player, has a positive attitude, a calm appearance and structurally keeps others updated."   

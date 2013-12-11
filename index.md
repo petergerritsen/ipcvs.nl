@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: default
+contentimage: 1
 ---
 
 IPCVS was founded in 2008 by Ren&eacute; van der Zalm. We provide process support to clients in the pharmaceutical, biotechnology and food & dairy sectors. Flexibility and a pragmatic approach ensure that projects run smoothly and efficiently.
