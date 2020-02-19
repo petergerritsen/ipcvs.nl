@@ -10,14 +10,14 @@ Every pharmaceutical production company needs to ensure that they have a validat
 
 IPCVS provides the following services to support you in your project, ensuring compliance with the relevant rules and guidelines:
 
-###Consultancy
+**Consultancy**
 
 IPCVS provides high quality consultancy services for projects related to commissioning, validation and engineering of equipment, processes and facilities.
 
-###Project Management
+**Project Management**
 
 IPCVS will manage your project from start to finish. We assist you with initiating the required documentation such as validation master plans, project plans, user requirement specifications (URS), commissioning- and validation protocols. We also support you by executing the actual commisioning and validation activities.
 
-###Documentation
+**Documentation**
 
 IPCVS assists with the adjustments of existing documents or the creation of customised protocols, work instructions or standard operating procedures (SOP) in both Dutch and English.
